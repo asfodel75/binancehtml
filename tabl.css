@@ -1,0 +1,32 @@
+.caption{
+    color: #723fa9;
+    width: 100%;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Name{background-color: beige;
+border: 3px solid blueviolet;
+padding: 15px;
+}
+.body {
+    background-color: aliceblue;
+}
+.head1{
+    background-color: beige;
+    border: 3px solid blueviolet;
+    padding: 15px; 
+}
+.office{
+    background-color: beige;
+    border: 3px solid blueviolet;
+    border-right: none;
+    border-left: none;
+    padding: 15px; 
+}
+.head3 {
+    background-color: beige;
+    border: 3px solid blueviolet;
+    border-left: none;
+    padding: 15px; 
+}
+    
