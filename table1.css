@@ -1,0 +1,37 @@
+.caption{
+    color: black;
+    width: 100%;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.body{
+    background-color: #e9e9e9;
+}
+table{
+    background-color: white;
+}
+.table{
+    display: flex;
+        justify-content: space-around;
+}
+.body1{
+    width: 100%;
+}
+.body1{
+    border-width: 2px;
+    border-style: ;
+    border-color: rgba(0, 0, 0, 0.091);
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+}
+.thead{
+    border-width: 3px;
+    border-style: ;
+    border-color: rgba(0, 0, 0, 0.091);
+    padding: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+}
