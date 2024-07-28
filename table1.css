@@ -7,7 +7,7 @@
     margin: 5px;
 }
 .body{
-    background-color: #e9e9e9;
+    background-color: #fdfdfd;
 }
 table{
     background-color: white;
@@ -56,11 +56,17 @@ table{
 .button{
     margin: 5px;
     font-family: sans-serif;
-    border-radius: 20%;
+    border-radius: 10px;
     background-color: white;
     padding: 5px;
-    border: 2px;
+    border: 2px solid #d8d8d84a;
     width: 10%;
-    border-color: rgb(48, 47, 47);
+    outline: none;
+    cursor: pointer;
 }
     
+table {
+    border: 2px solid #d8d8d84a;
+    border-radius: 10px;
+    padding: 10px;
+}
