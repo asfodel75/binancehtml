@@ -19,7 +19,6 @@ table{
 }
 .body1{
     border-width: 2px;
-    border-style: ;
     border-color: rgba(0, 0, 0, 0.091);
     padding: 15px;
     padding-top: 5px;
@@ -28,7 +27,6 @@ table{
 }
 .thead{
     border-width: 3px;
-    border-style: ;
     border-color: rgba(0, 0, 0, 0.091);
     padding: 15px;
     padding-top: 5px;
