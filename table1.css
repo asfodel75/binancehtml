@@ -2,7 +2,9 @@
     color: black;
     width: 100%;
     font-size: 20px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 5px;
 }
 .body{
     background-color: #e9e9e9;
@@ -24,6 +26,9 @@ table{
     padding-top: 5px;
     padding-bottom: 5px;
     border-bottom-style: solid;
+    padding-left: 1px;
+    text-align: left;
+    font-family: sans-serif;
 }
 .thead{
     border-width: 3px;
@@ -32,4 +37,30 @@ table{
     padding-top: 5px;
     padding-bottom: 5px;
     border-bottom-style: solid;
+    padding-left: 1px;
+    text-align: left;
+    font-family: sans-serif;
 }
+.check{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    font-family: sans-serif;
+    border-radius: 20%;
+}
+.button{
+    margin: 5px;
+    font-family: sans-serif;
+    border-radius: 20%;
+    background-color: white;
+    padding: 5px;
+    border: 2px;
+    width: 10%;
+    border-color: rgb(48, 47, 47);
+}
+    
